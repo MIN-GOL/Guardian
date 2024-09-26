@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "应用描述"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "守护助手"
+    }
+  ]
+}

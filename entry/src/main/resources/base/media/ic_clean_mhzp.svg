@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_sjss_mhzp</title>
+    <defs>
+        <linearGradient x1="68.6183233%" y1="13.4822573%" x2="59.5779819%" y2="62.7328414%" id="linearGradient-1">
+            <stop stop-color="#0A59F7" offset="0%"></stop>
+            <stop stop-color="#6094FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M10.2867021,5.60001665 L12.3266069,8.45234054 L12.3266069,8.45234054 L12.3651104,8.5185254 C13.285658,10.1008822 12.7491556,12.129887 11.1667988,13.0504346 C10.6606613,13.3448837 10.0855557,13.5 9.5,13.5 L9.38728909,13.5 C7.57618203,13.5000374 6.10798966,12.0318451 6.10798966,10.220738 C6.10798966,9.59391113 6.2876405,8.98021581 6.62566364,8.45234054 C6.62566364,8.45234054 6.62566364,8.45234054 6.62566364,8.45234054 C7.04755931,7.79348538 7.73202868,6.83562554 8.67907175,5.57876105 C9.01129077,5.13756822 9.63849475,5.05089033 10.0788037,5.3842767 C10.158941,5.44495383 10.229472,5.51736656 10.2867021,5.60001665 Z" id="path-2"></path>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="手机瘦身切图" transform="translate(-312.000000, -85.000000)">
+            <g id="ic_sjss_mhzp" transform="translate(312.125392, 85.503777)">
+                <g transform="translate(6.500000, 6.500000)">
+                    <circle id="椭圆形备份-3" stroke="#0C273D" cx="9.5" cy="9.5" r="9"></circle>
+                    <g id="三角形">
+                        <use fill="#D8D8D8" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

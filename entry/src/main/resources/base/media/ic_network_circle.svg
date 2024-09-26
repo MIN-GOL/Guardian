@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="209px" height="176px" viewBox="0 0 209 176" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_shzx_lljk</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="流量监控切图" transform="translate(-80.000000, -113.000000)">
+            <g id="ic_shzx_lljk" transform="translate(86.485848, 119.723693)">
+                <circle id="椭圆形" fill-opacity="0.16" fill="#FFFFFF" cx="98" cy="98" r="70"></circle>
+                <path d="M170.059619,164.4192 C186.16329,146.956785 196,123.627136 196,98 C196,43.8760945 152.123905,0 98,0 C43.8760945,0 0,43.8760945 0,98 C0,123.379707 9.64768023,146.506077 25.4756953,163.911765" id="路径" stroke-opacity="0.12" stroke="#FFFFFF" stroke-width="12"></path>
+            </g>
+        </g>
+    </g>
+</svg>

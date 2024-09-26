@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="99px" height="99px" viewBox="0 0 99 99" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_srlj_wjg</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="骚扰拦截-电话切图" transform="translate(-580.000000, -524.000000)">
+            <g id="ic_srlj_wjg-2" transform="translate(580.403087, 524.888154)">
+                <g id="编组-7" transform="translate(0.000000, 7.000000)">
+                    <path d="M49.2081601,6.91945908 L92.3963532,80.5 L6.1064901,80.5 L49.2081601,6.91945908 Z" id="三角形" stroke="#FFFFFF" stroke-width="7"></path>
+                    <g id="编组-5" transform="translate(45.133193, 30.470766)" fill="#FFFFFF">
+                        <rect id="矩形" transform="translate(3.303371, 15.201515) scale(-1, 1) translate(-3.303371, -15.201515) " x="0" y="0" width="6.60674157" height="30.4030303" rx="3.30337079"></rect>
+                        <rect id="矩形" transform="translate(3.303371, 36.841983) scale(-1, 1) translate(-3.303371, -36.841983) " x="0" y="32.1455791" width="6.60674157" height="9.39280787" rx="3.30337079"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

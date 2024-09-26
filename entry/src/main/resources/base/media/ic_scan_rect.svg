@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="264px" viewBox="0 0 265 264" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_aqsm_smk</title>
+    <g id="个人信息" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="安全扫码切图" transform="translate(-113.000000, -152.000000)">
+            <g id="ic_aqsm_smk-2" transform="translate(113.993408, 152.000000)">
+                <g id="ic_aqsm_smk" transform="translate(1.000000, 1.000000)">
+                    <rect id="矩形" stroke-opacity="0.467858801" stroke="#FFFFFF" fill-opacity="0.13" fill="#FFFFFF" x="0.5" y="0.5" width="261" height="261"></rect>
+                    <polyline id="路径-40" stroke="#1DC779" points="18.7526379 0.48982048 0.487043381 0.48982048 0.487043381 17.528616"></polyline>
+                    <polyline id="路径-40备份" stroke="#1DC779" transform="translate(252.366309, 9.009218) scale(-1, 1) translate(-252.366309, -9.009218) " points="261.499106 0.48982048 243.233511 0.48982048 243.233511 17.528616"></polyline>
+                    <polyline id="路径-40" stroke="#1DC779" transform="translate(9.619841, 253.012251) scale(1, -1) translate(-9.619841, -253.012251) " points="18.7526379 244.492853 0.487043381 244.492853 0.487043381 261.531648"></polyline>
+                    <polyline id="路径-40备份" stroke="#1DC779" transform="translate(252.366309, 253.012251) scale(-1, -1) translate(-252.366309, -253.012251) " points="261.499106 244.492853 243.233511 244.492853 243.233511 261.531648"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

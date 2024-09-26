@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_wlcs_csls</title>
+    <g id="个人信息" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="网络测速" transform="translate(-596.000000, -155.000000)">
+            <g id="ic_wlcs_csls-2" transform="translate(596.000000, 155.000000)">
+                <g id="ic_wlcs_csls" transform="translate(1.500000, 1.500000)">
+                    <g id="ic_lljk_shezhi" fill="#0C273D" fill-rule="nonzero">
+                        <path d="M9.5,0 C14.7467051,0 19,4.25329488 19,9.5 C19,14.7467051 14.7467051,19 9.5,19 C4.25329488,19 0,14.7467051 0,9.5 C0,4.25329488 4.25329488,0 9.5,0 Z M9.5,1.79659686 C5.24552792,1.79659686 1.79659686,5.24552792 1.79659686,9.5 C1.79659686,13.7544721 5.24552792,17.2034031 9.5,17.2034031 C13.7544721,17.2034031 17.2034031,13.7544721 17.2034031,9.5 C17.2034031,5.24552792 13.7544721,1.79659686 9.5,1.79659686 Z" id="椭圆形"></path>
+                    </g>
+                    <polyline id="路径-14" stroke="#0C273D" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" points="8.87173271 6.03184319 8.87173271 10.7349262 11.6212482 12.9681568"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

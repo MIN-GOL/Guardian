@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_aqsm_sgd</title>
+    <g id="个人信息" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="安全扫码切图" transform="translate(-54.000000, -31.000000)">
+            <g id="ic_aqsm_sgd-2" transform="translate(54.486816, 31.500000)">
+                <g id="ic_aqsm_sgd" transform="translate(3.905249, 1.861087)">
+                    <g id="编组-40" transform="translate(1.660462, 0.421574)" fill="#0C273D" fill-rule="nonzero">
+                        <path d="M0.329059407,0.129391901 C0.640689748,-0.0819899689 1.05446084,-0.027327009 1.30181225,0.241904405 L1.37075653,0.329059407 L12.1809357,16.2659977 C12.4134557,16.6087911 12.3240615,17.0751747 11.9812682,17.3076948 C11.6696378,17.5190767 11.2558667,17.4644137 11.0085153,17.1951823 L10.939571,17.1080273 L0.129391901,1.17108902 C-0.103128156,0.828295645 -0.0137339688,0.361911958 0.329059407,0.129391901 Z" id="路径-38备份"></path>
+                    </g>
+                    <path d="M4.015467,6.74492345 L0,10.8389459 L6.2999724,10.8389459 L4.08169937,20.2778264 L9.10341955,15.4175567 M12.3149178,12.3093096 L16.1895027,8.55929422 L9.8810252,8.55929422 L10.63097,0 L6.64834095,4.06054205" id="形状" stroke="#0C273D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

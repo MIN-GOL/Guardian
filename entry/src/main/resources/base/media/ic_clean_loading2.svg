@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="171px" height="170px" viewBox="0 0 171 170" version="1.1" xmlns="http://www.w3.org/2000/svg"
+>
+    <title>ic_sjss_zpys</title>
+    <defs>
+        <linearGradient x1="36.7736495%" y1="0%" x2="69.2103014%" y2="104.296297%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.0968657807" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.280304168" offset="52.9372904%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="45.8730713%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.280304168" offset="52.9372904%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.149787956" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="46.1886619%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.280304168" offset="52.9372904%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.149787956" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="54.1859978%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.0631231561" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" stop-opacity="0.0440972602" offset="0%"></stop>
+            <stop stop-color="#FEFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="手机瘦身切图" transform="translate(-61.000000, -580.000000)">
+            <g id="ic_sjss_zpys" transform="translate(61.663345, 580.000000)">
+                <g transform="translate(2.000000, 2.000000)">
+                    <circle id="椭圆形" stroke="url(#linearGradient-1)" fill-opacity="0.0229492188" fill="#FFFFFF"
+                            cx="83" cy="83" r="82.5"></circle>
+                    <path d="M42.6880981,31.9823869 C27.5968562,43.7041763 17.8860347,62.0244507 17.8860347,82.612809 C17.8860347,117.998387 46.5717139,146.684067 81.9572924,146.684067"
+                          id="路径" stroke="url(#linearGradient-2)"></path>
+                    <path d="M122.577004,135.760883 C138.062733,124.028171 148.113965,105.113497 148.113965,83.7778694 C148.113965,48.1765252 120.127937,19.3159334 85.6054212,19.3159334"
+                          id="路径" stroke="url(#linearGradient-3)"></path>
+                    <path d="M65.0824185,36.7598452 C46.6721918,44.1961329 33.6998004,62.0762713 33.6998004,82.9516948 C33.6998004,110.498701 56.2888659,132.829961 84.1538903,132.829961"
+                          id="路径" stroke="url(#linearGradient-4)" stroke-width="2"></path>
+                    <circle id="椭圆形" stroke="#FFFFFF" stroke-width="2" cx="70.5940731" cy="34.7117635"
+                            r="5.03630544"></circle>
+                    <circle id="椭圆形备份-13" stroke="#FFFFFF" stroke-width="2" cx="95.5828701" cy="129.639153"
+                            r="5.03630544"></circle>
+                    <path d="M100.362434,128.142286 C118.429025,120.464216 132.3002,103.180107 132.3002,82.3118038 C132.3002,54.4467794 109.711134,31.857714 81.8461097,31.857714"
+                          id="路径" stroke="url(#linearGradient-5)" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

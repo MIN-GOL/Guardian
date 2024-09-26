@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="21px" viewBox="0 0 20 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_shzx_wzfx</title>
+    <defs>
+        <linearGradient x1="12.3742676%" y1="50%" x2="88.6887207%" y2="38.6481934%" id="linearGradient-1">
+            <stop stop-color="#FFD4A9" offset="0%"></stop>
+            <stop stop-color="#F3BD90" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="9.88484166" cy="6.23322131" r="5.78141785"></circle>
+        <linearGradient x1="80.3748937%" y1="13.627533%" x2="50%" y2="91.3942847%" id="linearGradient-3">
+            <stop stop-color="#FDBA52" offset="0%"></stop>
+            <stop stop-color="#F17E6C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="11.2105436%" x2="52.843594%" y2="88.1697262%" id="linearGradient-4">
+            <stop stop-color="#60D3FF" offset="0%"></stop>
+            <stop stop-color="#0A59F7" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-5" points="0 4.42532428 16.8457331 0 10.9245992 15.3276334 8.42286656 7.66381671"></polygon>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="守护中心切图" transform="translate(-411.000000, -192.000000)">
+            <g id="ic_shzx_wzfx-2" transform="translate(411.000000, 192.068071)">
+                <g id="ic_shzx_wzfx" transform="translate(1.577133, 2.336183)">
+                    <g id="椭圆形" opacity="0.441631499">
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                        <use fill="#AEE3FF" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="路径-34">
+                        <use fill="url(#linearGradient-3)" xlink:href="#path-5"></use>
+                        <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

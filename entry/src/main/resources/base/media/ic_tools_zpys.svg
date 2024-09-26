@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33" class="design-iconfont">
+  <defs>
+    <linearGradient x1="68.6183233%" y1="43.1944978%" x2="59.5779819%" y2="52.3729117%" id="jky7p0pp3__hcchdocema">
+      <stop stop-color="#0A59F7" offset="0%"/>
+      <stop stop-color="#6094FF" offset="100%"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#0C273D" stroke-linecap="round" stroke-linejoin="round" d="M11.749814 0L0.683742691 5.40341961 11.749814 10.8068392 23.2666256 5.40341961z" transform="translate(4.732076 6.508266)"/>
+    <path d="M0,14.8341409 C0.447537635,15.0981269 4.30351936,16.7628117 11.5679452,19.8281953 C11.8276055,19.937627 12.1213741,19.9319164 12.3766241,19.8125591 L23.7622666,14.4963596 L23.7622666,14.4963596" stroke="#0C273D" stroke-linecap="round" stroke-linejoin="round" transform="translate(4.732076 6.508266)"/>
+    <path d="M4.67550829,7.89991173 C4.67550829,7.89991173 3.34491976,8.69394202 0.683742691,10.2820026 L11.749814,15.5121506 L23.2666256,10.2820026 L19.1468918,7.89991173 L11.749814,11.3559724 C7.03361021,9.05193196 4.67550829,7.89991173 4.67550829,7.89991173 Z" fill="url(#jky7p0pp3__hcchdocema)" transform="translate(4.732076 6.508266)"/>
+  </g>
+</svg>

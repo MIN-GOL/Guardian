@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "应用描述"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "守护助手"
+    },
+    {
+      "name": "permission_reason_camera",
+      "value": "相机授权原因"
+    },
+    {
+      "name": "permission_reason_microphone",
+      "value": "麦克风授权原因"
+    },
+    {
+      "name": "permission_reason_calendar",
+      "value": "日历授权原因"
+    },
+    {
+      "name": "permission_reason_contact",
+      "value": "通讯录授权原因"
+    },
+    {
+      "name": "permission_reason_imageVideo",
+      "value": "照片授权原因"
+    },
+    {
+      "name": "permission_reason_notification",
+      "value": "通知授权原因"
+    },
+    {
+      "name": "permission_reason_location",
+      "value": "位置授权原因"
+    }
+  ]
+}

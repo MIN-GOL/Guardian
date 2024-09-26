@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_sjss_lvjing</title>
+    <defs>
+        <linearGradient x1="68.6183233%" y1="-9.89549153%" x2="59.5779819%" y2="70.8840891%" id="linearGradient-1">
+            <stop stop-color="#0A59F7" offset="0%"></stop>
+            <stop stop-color="#6094FF" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="9.94266063" cy="5.83473537" r="5.83473537"></circle>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="手机瘦身切图" transform="translate(-312.000000, -395.000000)">
+            <g id="ic_sjss_lvjing-2" transform="translate(312.125392, 395.503777)">
+                <g id="ic_sjss_lvjing" transform="translate(6.400000, 6.429625)">
+                    <g id="椭圆形备份-7">
+                        <use fill="#D8D8D8" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                    <circle id="椭圆形备份-5" stroke="#0C273D" cx="5.83473537" cy="13.3060146" r="5.33473537"></circle>
+                    <circle id="椭圆形备份-6" stroke="#0C273D" cx="13.3652646" cy="13.3060146" r="5.33473537"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

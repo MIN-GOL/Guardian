@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" viewBox="0 0 20 20" version="1.1">
+  <title>ic_tab_wode</title>
+  <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="UI规范一" transform="translate(-330.000000, -1867.000000)" stroke="#0C273D" stroke-width="1.2">
+      <g id="ic_tab_wode" transform="translate(330.000000, 1867.000000)">
+        <g transform="translate(0.500000, 0.505418)">
+          <circle id="椭圆形" cx="9.5" cy="5.74038514" r="5.14038514"></circle>
+          <path d="M7.21395156,7.54522213 C7.91495573,8.18510394 8.71783528,8.50504485 9.62259021,8.50504485 C10.5273451,8.50504485 11.2484979,8.18510394 11.7860484,7.54522213" id="路径-2" stroke-linecap="round" stroke-linejoin="round"></path>
+          <rect id="矩形" x="0.6" y="12.7040986" width="17.8" height="5.68506543" rx="1"></rect>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_aqsm_xuanze </title>
+    <g id="个人信息" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="安全扫码切图" transform="translate(-370.000000, -35.000000)">
+            <g id="椭圆形备份-13" transform="translate(370.986816, 35.500000)">
+                <g id="ic_aqsm_xuanze-" transform="translate(0.000000, 0.028050)">
+                    <ellipse id="椭圆形备份-3" fill="#FF5E5D" cx="10" cy="9.98597475" rx="10" ry="9.98597475"></ellipse>
+                    <path d="M14.8595123,9.23597475 C15.2737259,9.23597475 15.6095123,9.57176119 15.6095123,9.98597475 C15.6095123,10.3656705 15.3273584,10.6794657 14.9612829,10.7291281 L14.8595123,10.7359748 L5.14048767,10.7359748 C4.72627411,10.7359748 4.39048767,10.4001883 4.39048767,9.98597475 C4.39048767,9.60627899 4.67264155,9.29248379 5.03871711,9.24282137 L5.14048767,9.23597475 L14.8595123,9.23597475 Z" id="路径-2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

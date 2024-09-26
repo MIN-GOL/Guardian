@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_sjss_livephoto</title>
+    <defs>
+        <linearGradient x1="61.7906086%" y1="-9.89549153%" x2="56.0655427%" y2="70.8840891%" id="linearGradient-1">
+            <stop stop-color="#0A59F7" offset="0%"></stop>
+            <stop stop-color="#6094FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="手机瘦身切图" transform="translate(-312.000000, -457.000000)">
+            <g id="ic_sjss_livephoto-2" transform="translate(312.125392, 457.503777)">
+                <g id="ic_sjss_livephoto" transform="translate(6.725386, 7.750000)">
+                    <rect id="矩形备份-26" stroke="#0C273D" x="0.5" y="0.5" width="17.5492281" height="15.5" rx="3"></rect>
+                    <path d="M6.29385618,4.52344909 L6.29385618,11.9175527 C6.29385618,12.1936951 6.51771381,12.4175527 6.79385618,12.4175527 C6.8879697,12.4175527 6.98017241,12.3909908 7.05986183,12.3409213 L12.9440068,8.64386954 C13.1778268,8.49695868 13.2482806,8.1883153 13.1013697,7.95449526 C13.0614031,7.89088533 13.0076167,7.83709887 12.9440068,7.79713228 L7.05986183,4.10008046 C6.82604179,3.9531696 6.51739841,4.02362341 6.37048755,4.25744345 C6.3204181,4.33713287 6.29385618,4.42933558 6.29385618,4.52344909 Z" id="路径-2" fill="url(#linearGradient-1)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

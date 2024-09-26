@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 33 33" class="design-iconfont">
+  <defs>
+    <linearGradient x1="68.6183233%" y1="-9.69210157%" x2="59.5779819%" y2="70.813172%" id="g0e6hs4wq__ac7r1gse8b">
+      <stop stop-color="#0A59F7" offset="0%"/>
+      <stop stop-color="#6094FF" offset="100%"/>
+    </linearGradient>
+    <path d="M13.0166328,11.2734814 L13.0166328,0 C16.5885474,0.398438772 19.2732449,1.56852913 21.0707252,3.51027107 C22.8682054,5.45201302 23.9477317,8.03974978 24.309304,11.2734814 L13.0166328,11.2734814 Z" id="g0e6hs4wq__wr8mx8c56a"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#FF6E46" d="M10.3162668 10.33100609A2.08077561 2.08077561 0 1 0 10.3162668 14.49255731A2.08077561 2.08077561 0 1 0 10.3162668 10.33100609Z" transform="translate(5.524514 4.538856)"/>
+    <g transform="translate(5.524514 4.538856)">
+      <use fill="#D8D8D8" xlink:href="#g0e6hs4wq__wr8mx8c56a"/>
+      <use fill="url(#g0e6hs4wq__ac7r1gse8b)" xlink:href="#g0e6hs4wq__wr8mx8c56a"/>
+    </g>
+    <path stroke="#0C273D" d="M11.4493866 2.007336499999999A10.9493866 10.9493866 0 1 0 11.4493866 23.906109700000002A10.9493866 10.9493866 0 1 0 11.4493866 2.007336499999999Z" transform="translate(5.524514 4.538856)"/>
+    <path stroke="#0C273D" d="M11.4493866 8.21704291A4.73968019 4.73968019 0 1 0 11.4493866 17.69640329A4.73968019 4.73968019 0 1 0 11.4493866 8.21704291Z" transform="translate(5.524514 4.538856)"/>
+  </g>
+</svg>

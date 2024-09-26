@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 33 33" class="design-iconfont">
+    <defs>
+        <linearGradient x1="68.6183233%" y1="-9.89549153%" x2="59.5779819%" y2="70.8840891%" id="linearGradient-1">
+            <stop stop-color="#0A59F7" offset="0%" />
+            <stop stop-color="#6094FF" offset="100%" />
+        </linearGradient>
+        <circle id="path-2" cx="8.30212379" cy="20.8287071" r="1.5" />
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页切图" transform="translate(-419.000000, -440.000000)">
+            <g id="yjxxx-2备份" transform="translate(419.726418, 440.421423)">
+                <g id="yjxxx" transform="translate(7.762462, 3.500000)">
+                    <path d="M14.3414059,0 C15.9982601,0 17.3414059,1.34314575 17.3414059,3 L17.3414059,22 C17.3414059,23.6568542 15.9982601,25 14.3414059,25 L3,25 C1.34314575,25 0,23.6568542 0,22 L0,3 C0,1.34314575 1.34314575,0 3,0 L14.3414059,0 Z M14.3414059,1 L3,1 C1.9456382,1 1.08183488,1.81587779 1.00548574,2.85073766 L1,3 L1,22 C1,23.0543618 1.81587779,23.9181651 2.85073766,23.9945143 L3,24 L14.3414059,24 C15.3957677,24 16.259571,23.1841222 16.3359201,22.1492623 L16.3414059,22 L16.3414059,3 C16.3414059,1.9456382 15.5255281,1.08183488 14.4906682,1.00548574 L14.3414059,1 Z" id="矩形" fill="#0C273D" fill-rule="nonzero" />
+                    <polygon id="矩形" fill="#0C273D" fill-rule="nonzero" points="17.0696605 16.1534554 17.0696605 17.1534554 0 17.1534554 0 16.1534554" />
+                    <g id="椭圆形">
+                        <use fill="#D8D8D8" xlink:href="#path-2" />
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-2" />
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
